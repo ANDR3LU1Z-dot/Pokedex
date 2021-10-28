@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pokedex-android</string>
+    <string name="tv_number">N° 001</string>
+    <string name="name_pokemon">Bulbasaur</string>
+    <string name="type_01">Grass</string>
+    <string name="type_02">Grass</string>
+</resources>
